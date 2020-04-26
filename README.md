@@ -1,2 +1,1 @@
-# gittest
-Just simplely to learn git operation through this
+Record my knowledge that make me remember whate i learning
